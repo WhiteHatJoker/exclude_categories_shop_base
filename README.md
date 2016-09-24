@@ -3,4 +3,4 @@ If you have set the WooCommerce Settings -> Shop Page Display to show categories
 ## Installation ##
 1. Copy over the code in the current repository to your WordPress functions.php or woo-config.php files.
 2. Go to your Wordpress Admin Panel -> Products -> Categories and note down the slugs of categories that you would like to hide on your shop page.
-3. Place the noted slugs into the array of slugs on line 14 of functions.php
+3. Place the noted slugs into the array of slugs on [line 14](functions.php#L14) of functions.php
